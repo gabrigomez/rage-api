@@ -1,3 +1,3 @@
 # Rage-api
 
-Just a simple api with Rage against the machine songs
+Just a simple API with Rage Against The Machine songs
